@@ -24,6 +24,7 @@
     {"id":{"name":"Heart9","path":"sprites/Heart9/Heart9.yy",},"order":34,},
     {"id":{"name":"Clover4","path":"sprites/Clover4/Clover4.yy",},"order":16,},
     {"id":{"name":"obj_card","path":"objects/obj_card/obj_card.yy",},"order":1,},
+    {"id":{"name":"Deck02","path":"objects/Deck02/Deck02.yy",},"order":0,},
     {"id":{"name":"Clover2","path":"sprites/Clover2/Clover2.yy",},"order":14,},
     {"id":{"name":"Diamond6","path":"sprites/Diamond6/Diamond6.yy",},"order":5,},
     {"id":{"name":"Spade4","path":"sprites/Spade4/Spade4.yy",},"order":42,},
@@ -91,6 +92,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/TannerDeck.yy","order":3,"resourceVersion":"1.0","name":"TannerDeck","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
